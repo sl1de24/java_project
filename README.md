@@ -7,7 +7,8 @@
    
    *Instrukcija, ka pareizi palaist un izmantot programmu*
    
-Ir 2 varianti, ka var palaist šo programmu
+   *Ir 2 varianti, ka var palaist šo programmu*
+   
   Projekta atvēršana programmā IntelliJ IDEA:
  1. Atveriet IntelliJ IDEA.
  2. Noklikšķiniet uz Fails -> Atvērt.
