@@ -19,7 +19,7 @@ Projekta atvēršana programmā IntelliJ IDEA:
 
 Caur cmd:
  1. Lejupielādēt arhīvu no Github.
- 2. Izsaiņojiet arhīvu jebkurā Jums ērtā direktorijā.
+ 2. Izsaiņojiet arhīvu jebkurā Jūms ērtā direktorijā.
  3. Atveriet konsoli, dodieties uz direktoriju, kurā izpakojāt projektu caur komandu cd.
  4. Dodieties uz mapi src izmantojot komandu cd.
  5. Apkopojiet kodu, izmantojot komandu javac *.java
