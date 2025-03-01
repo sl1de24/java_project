@@ -7,8 +7,8 @@
    
    *Instrukcija, ka pareizi palaist un izmantot programmu*
    
-Ir 2 varianti, ka var palaist šo programmu:
-  Projekta atvēršana programmā IntelliJ IDEA.
+Ir 2 varianti, ka var palaist šo programmu
+  Projekta atvēršana programmā IntelliJ IDEA:
  1. Atveriet IntelliJ IDEA.
  2. Noklikšķiniet uz Fails -> Atvērt.
  3. Atlasiet projekta mapi un noklikšķiniet uz Labi.
@@ -17,7 +17,7 @@ Ir 2 varianti, ka var palaist šo programmu:
  5. Atveriet failu Main.java.
  6. Noklikšķiniet uz Palaist -> Palaist galveno vai uz pogas => augšējā joslā.
 
-    Caur cmd.
+    Caur cmd:
  1. Atveriet cmd.
  2. Dodieties uz direktoriju, kurā vēlaties klonēt repozitoriju, izmantojot komandu cd.
  3. Palaidiet komandu git clone <jūsu repozitorija URL>, lai klonētu repozitoriju savā datorā.
