@@ -18,9 +18,9 @@ Projekta atvēršana programmā IntelliJ IDEA:
  6. Noklikšķiniet uz Palaist -> Palaist galveno vai uz pogas => augšējā joslā.
 
 Caur cmd:
- 1. Atveriet cmd.
- 2. Dodieties uz direktoriju, kurā vēlaties klonēt repozitoriju, izmantojot komandu cd.
- 3. Palaidiet komandu git clone <jūsu repozitorija URL>, lai klonētu repozitoriju savā datorā.
- 4. Pēc repozitorija klonēšanas izmantojiet komandu cd, lai pārietu uz projekta direktoriju.
- 5. Palaidiet komandu javac Main.java, lai apkopotu savu Java kodu.
- 6. Uzrakstiet Java Main, lai palaistu programmu.
+ 1. Lejupielādēt arhīvu no Github.
+ 2. Izsaiņojiet arhīvu jebkurā Jums ērtā direktorijā.
+ 3. Atveriet konsoli, dodieties uz direktoriju, kurā izpakojāt projektu caur komandu cd.
+ 4. Dodieties uz mapi src izmantojot komandu cd.
+ 5. Apkopojiet kodu, izmantojot komandu javac *.java
+ 6. Palaidiet programmu, izmantojot komandu java Main
